@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SuperskankersActivity!</string>
+    <string name="app_name">Sprsknkrs</string>
+    <string name="eventButton">View Events</string>
+    <string name="viewNews">View News</string>
+    <string name="galleryButton">Gallery</string>
+    <string name="aboutUs">About Us</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="back">Back</string>
+    <string name="logo">logo</string>
+	<string name="noResults">No events found!</string>
+    
+</resources>

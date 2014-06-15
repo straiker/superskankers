@@ -1,0 +1,24 @@
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" 
+    >
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:textColor="#3a99d3"
+    android:background="#4d2a7e"
+    android:id="@+id/aboutUs"
+    android:padding="20dp"
+    android:layout_gravity="center_vertical|right">
+    <Button
+        android:id="@+id/backButton"
+        android:text="@string/back"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="backButtonHandler"
+        />
+</LinearLayout>
+</ScrollView>
